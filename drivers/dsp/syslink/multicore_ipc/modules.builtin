@@ -1,0 +1,2 @@
+kernel/drivers/dsp/syslink/multicore_ipc/syslink_ipc.ko
+kernel/drivers/dsp/syslink/multicore_ipc/syslink_platform.ko

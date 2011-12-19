@@ -1,0 +1,12 @@
+kernel/drivers/media/video/videodev.ko
+kernel/drivers/media/video/v4l2-int-device.ko
+kernel/drivers/media/video/v4l2-common.ko
+kernel/drivers/media/video/v4l1-compat.ko
+kernel/drivers/media/video/videobuf-core.ko
+kernel/drivers/media/video/videobuf-dma-contig.ko
+kernel/drivers/media/video/dmm/dmm_omap.ko
+kernel/drivers/media/video/omap/omap-vout.ko
+kernel/drivers/media/video/omap/omap_s3d_overlay.ko
+kernel/drivers/media/video/omap/omap_wb.ko
+kernel/drivers/media/video/tiler/tiler_omap.ko
+kernel/drivers/media/video/tiler/tcm/tcm_sita.ko

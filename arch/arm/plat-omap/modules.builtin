@@ -1,0 +1,5 @@
+kernel/arch/arm/plat-omap/iommu.ko
+kernel/arch/arm/plat-omap/iovmm.ko
+kernel/arch/arm/plat-omap/dmm_user.ko
+kernel/arch/arm/plat-omap/iodmm.ko
+kernel/arch/arm/plat-omap/mailbox.ko

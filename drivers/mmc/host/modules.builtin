@@ -1,0 +1,2 @@
+kernel/drivers/mmc/host/omap.ko
+kernel/drivers/mmc/host/omap_hsmmc.ko

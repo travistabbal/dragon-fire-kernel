@@ -1,0 +1,3 @@
+kernel/drivers/media/video/omap/omap-vout.ko
+kernel/drivers/media/video/omap/omap_s3d_overlay.ko
+kernel/drivers/media/video/omap/omap_wb.ko

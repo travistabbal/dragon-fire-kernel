@@ -1,0 +1,2 @@
+kernel/drivers/usb/otg/twl6030-usb.ko
+kernel/drivers/usb/otg/nop-usb-xceiv.ko

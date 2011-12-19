@@ -1,0 +1,4 @@
+kernel/drivers/hwmon/hwmon.ko
+kernel/drivers/hwmon/lm75.ko
+kernel/drivers/hwmon/omap_bandgap.ko
+kernel/drivers/hwmon/pmic_thermal.ko

@@ -1,0 +1,13 @@
+kernel/sound/soundcore.ko
+kernel/sound/core/snd.ko
+kernel/sound/core/snd-timer.ko
+kernel/sound/core/snd-pcm.ko
+kernel/sound/core/snd-page-alloc.ko
+kernel/sound/soc/snd-soc-core.ko
+kernel/sound/soc/codecs/snd-soc-tlv320aic31xx.ko
+kernel/sound/soc/omap/snd-soc-omap-abe.ko
+kernel/sound/soc/omap/snd-soc-omap.ko
+kernel/sound/soc/omap/snd-soc-omap-mcbsp.ko
+kernel/sound/soc/omap/snd-soc-omap-abe-dsp.ko
+kernel/sound/soc/omap/snd-soc-omap4-panda-aic31xx.ko
+kernel/sound/soc/omap/abe/snd-soc-abe-hal.ko

@@ -1,0 +1,2 @@
+kernel/drivers/mfd/twl6030-pwm.ko
+kernel/drivers/mfd/twl6030-gpadc.ko

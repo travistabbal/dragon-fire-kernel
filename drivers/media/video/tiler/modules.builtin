@@ -1,0 +1,2 @@
+kernel/drivers/media/video/tiler/tiler_omap.ko
+kernel/drivers/media/video/tiler/tcm/tcm_sita.ko

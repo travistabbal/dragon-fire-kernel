@@ -1,0 +1,6 @@
+kernel/arch/arm/mach-omap2/mailbox_mach.ko
+kernel/arch/arm/mach-omap2/ipu_drv.ko
+kernel/arch/arm/mach-omap2/ipu_dev.ko
+kernel/arch/arm/mach-omap2/ipu_utility.ko
+kernel/arch/arm/mach-omap2/iommu2.ko
+kernel/arch/arm/mach-omap2/omap-iommu.ko

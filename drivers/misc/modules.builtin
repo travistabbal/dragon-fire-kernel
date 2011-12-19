@@ -1,0 +1,2 @@
+kernel/drivers/misc/bma250/bma250.ko
+kernel/drivers/misc/ti-st/st_drv.ko

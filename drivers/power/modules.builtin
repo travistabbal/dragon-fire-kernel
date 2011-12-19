@@ -1,0 +1,4 @@
+kernel/drivers/power/power_supply.ko
+kernel/drivers/power/bq27541_battery.ko
+kernel/drivers/power/summit_smb347.ko
+kernel/drivers/power/battery_bq27541.ko
